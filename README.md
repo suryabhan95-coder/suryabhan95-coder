@@ -2,16 +2,16 @@
   <img src="https://drive.google.com/uc?export=view&id=1vwjT23hUtocdEJoO5mdSd9RuXT3Y5w1i" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Suryabhan pratap yadav</h1>
 <h3 align="center">A Passionate Developer 🚀</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Your Project**
-- 🌱 I’m currently learning **Your Technology**
-- 💬 Ask me about **Your Skills**
-- 📫 How to reach me: **your@email.com**
+- 🔭 I’m currently learn **HTML and CSS**
+- 🌱 I’m currently learning **Website desiging**
+- 💬 Ask me about *create website**
+- 📫 How to reach me: **surajjadeja95@email.com**
 
 ---
 
