@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Suryabhan pratap yadav
 
-<!--
-**suryabhan95-coder/suryabhan95-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🌱 I’m currently learning: 
+- 💻 I’m working on:
+- 🎯 Career goal:
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Programming:
+- Frameworks:
+- Tools:
+- Databases:
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 🔗 Connect with Me
+- LinkedIn:
+- Portfolio:
+- Email:surajjadeja95@gmail.com
